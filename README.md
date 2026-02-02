@@ -162,5 +162,3 @@ Metrics are printed periodically and designed to be easily wired into **Langfuse
 **Rahil Hanief Bhat**
 
 ---
-
-If you have questions or want this converted into an API or production-ready service, feel free to ask 🙂
